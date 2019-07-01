@@ -1,4 +1,8 @@
+# dic
 .vs
+Debug
+
+# files
 *.sln
 *.vcxproj
 *.filters
